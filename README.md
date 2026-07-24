@@ -9,7 +9,6 @@ A clean, pure-Python Streamlit app that demonstrates a planner → executor → 
 - Executor that researches each task in isolation
 - Final report generation with executive summaries and recommendations
 - PDF export for the completed report
-- Simple, teachable architecture for a 2-hour live coding session
 
 ## Project structure
 
