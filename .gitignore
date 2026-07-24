@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Streamlit / local runtime
+.streamlit/secrets.toml
+*.log
+
+# Build / export artifacts
+build/
+dist/
+*.egg-info/
+research_report.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
